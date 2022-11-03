@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://github.com/Dqrkky?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrkky&theme=dark" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrkky&theme=dark" align="center" />
 </a>
