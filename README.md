@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/810531416663261204">
-  <img src="https://lanyard.cnrad.dev/api/810531416663261204?theme=dqrk&bg=b842ef&borderRadius=10px&animated=true&idleMessage=What%20are%20you%20looking%20foo?&hideDiscrim=false&hideTimestamp=false&hideBadges=true" align="left" />
+  <img src="https://lanyard.cnrad.dev/api/810531416663261204?theme=dqrk&bg=null&borderRadius=10px&animated=true&idleMessage=What%20are%20you%20looking%20foo?&hideDiscrim=false&hideTimestamp=false&hideBadges=true" align="left" />
 </a>
 
 <a href="https://github.com/Dqrkky?tab=repositories">
