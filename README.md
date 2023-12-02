@@ -1,5 +1,5 @@
 <div style="background-color: rgb(50, 50, 50); height: 11cm; width: 21cm; margin: auto; margin-top: 6%; text-align: center;">
-    <a href="https://discord.com/user/1113947120387510382">
+    <a href="https://discord.com/user/1113947120387510382 style="position: relative; margin: auto; top: 12%">
         <img src="https://lanyard.cnrad.dev/api/1113947120387510382?theme=dark">
     </a>
     <a href="https://github.com/Dqrkky?tab=repositories" style="position: relative; margin: auto; top: 12%">
