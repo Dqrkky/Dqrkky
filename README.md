@@ -4,6 +4,6 @@
 <a href="https://github.com/Dqrkky?tab=repositories" style="position: absolute; top: 38%; left: 58%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrkky&theme=dark" />
 </a>
-<a href="[https://undentified.checkly-dashboards.com](https://stats.uptimerobot.com/1zQZOi6Y3E)" style="position: absolute; top: 56%; left: 4%;">
+<a href="https://stats.uptimerobot.com/1zQZOi6Y3E" style="position: absolute; top: 56%; left: 4%;">
   <span>UnDentified Status</span>
 </a>
