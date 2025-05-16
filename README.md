@@ -4,7 +4,7 @@
 <a href="https://github.com/Dqrkky?tab=repositories" style="position: absolute; top: 38%; left: 58%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dqrkky&theme=dark" />
 </a>
-<a href="http://undentified.ddns.net:85/status/undentified" style="position: absolute; top: 56%; left: 4%;">
-  <span>UnDentified Status</span>
+<a href="https://undentified.up.railway.app/status/index" style="position: absolute; top: 56%; left: 4%;">
+  <span>[UpTimeKuma.org | RailWay.app 🤍] UnDentified Status</span>
 </a>
 
